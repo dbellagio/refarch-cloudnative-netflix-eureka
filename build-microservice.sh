@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# I changed this line
 IMAGE_NAME=registry.ng.bluemix.net/supercontainers/netflix-eureka
 MAVEN_BUILD_TARGET=target/eureka-0.0.1-SNAPSHOT.jar
 GRADLE_BUILD_TARGET=build/libs/eureka-0.0.1-SNAPSHOT.jar
